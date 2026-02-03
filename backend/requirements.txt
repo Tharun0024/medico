@@ -1,0 +1,20 @@
+# MEDICO Backend Dependencies
+
+# Web framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Async support
+anyio>=4.2.0
+
+# Database (for future)
+sqlalchemy>=2.0.25
+aiosqlite>=0.19.0
+
+# WebSocket
+websockets>=12.0
+
+# Development
+python-dotenv>=1.0.0
