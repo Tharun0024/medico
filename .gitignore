@@ -1,109 +1,131 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# Virtual environments
-venv/
-ENV/
-env/
-.venv/
-
-# IDE
-.idea/
-.vscode/
+####################################
+# OS & Editor
+####################################
+.DS_Store
+Thumbs.db
 *.swp
 *.swo
-*~
-.project
-.pydevproject
-.settings/
+.idea/
+.vscode/
+*.log
 
-# Testing
-.tox/
-.nox/
-.coverage
-.coverage.*
-htmlcov/
+####################################
+# Environment & Secrets
+####################################
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+
+####################################
+# Python / FastAPI Backend
+####################################
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
 .pytest_cache/
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# pyenv
-.python-version
-
-# mypy
 .mypy_cache/
-.dmypy.json
-dmypy.json
+ruff_cache/
+coverage/
+htmlcov/
 
-# Pyre
-.pyre/
+####################################
+# FastAPI / Uvicorn
+####################################
+*.sqlite3
+*.db
+*.db-journal
 
-# Node.js
+####################################
+# Node / Next.js (medico-main, control_room_dashboard)
+####################################
 node_modules/
+.next/
+out/
+dist/
+build/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+.turbo/
 
-# Vite
-frontend/dist/
-frontend/.cache/
-*.local
+####################################
+# Next.js Env & Cache
+####################################
+.next/cache/
+.vercel/
 
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-*.env
+####################################
+# Flutter (smart_ambulance)
+####################################
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
 
-# Logs
+####################################
+# Flutter Generated
+####################################
+*.lock
+*.iml
+
+####################################
+# Logs & Runtime Files
+####################################
 logs/
-*.log
-
-# OS files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Temporary files
 tmp/
-temp/
-*.tmp
-*.temp
+*.pid
+
+####################################
+# Simulator / Demo Artifacts
+####################################
+simulation_data/
+mock_data/
+seed_data/
+*.seed.json
+
+####################################
+# Test & Coverage
+####################################
+.coverage
+coverage.xml
+reports/
+test-results/
+
+####################################
+# API Docs / Generated Files
+####################################
+openapi.json
+swagger.json
+
+####################################
+# Docker (if added later)
+####################################
+docker-compose.override.yml
+
+####################################
+# Misc
+####################################
+.cache/
+.eslintcache

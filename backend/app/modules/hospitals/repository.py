@@ -42,3 +42,8 @@ class HospitalRepository:
         """Count total hospitals."""
         result = await self._session.execute(select(func.count(Hospital.id)))
         return result.scalar_one()
+
+    async def get_max_id(self) -> Optional[int]:
+        """Get the maximum hospital ID for auto-increment fallback."""
+        result = await self._session.execute(select(func.max(Hospital.id)))
+        return result.scalar_one_or_none()

@@ -1,0 +1,67 @@
+[
+  { "hospital_id": "HOSP-001", "name": "Rajiv Gandhi Government General Hospital", "location": [13.0878, 80.2785], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-002", "name": "Stanley Medical College Hospital", "location": [13.1196, 80.2870], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-003", "name": "Apollo Hospitals Greams Road", "location": [13.0604, 80.2496], "priority_level": "private" },
+  { "hospital_id": "HOSP-004", "name": "Fortis Malar Hospital", "location": [13.0036, 80.2565], "priority_level": "private" },
+  { "hospital_id": "HOSP-005", "name": "Government Kilpauk Medical College", "location": [13.0825, 80.2418], "priority_level": "secondary" },
+
+  { "hospital_id": "HOSP-006", "name": "Sri Ramachandra Medical Centre", "location": [13.0329, 80.1826], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-007", "name": "MIOT International Hospital", "location": [13.0213, 80.1760], "priority_level": "private" },
+  { "hospital_id": "HOSP-008", "name": "Global Hospital Chennai", "location": [13.0185, 80.2021], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-009", "name": "SIMS Hospital Vadapalani", "location": [13.0507, 80.2121], "priority_level": "private" },
+  { "hospital_id": "HOSP-010", "name": "Government Royapettah Hospital", "location": [13.0523, 80.2646], "priority_level": "secondary" },
+
+  { "hospital_id": "HOSP-011", "name": "Institute of Child Health & Hospital for Children", "location": [13.0797, 80.2761], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-012", "name": "Adyar Cancer Institute", "location": [13.0067, 80.2575], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-013", "name": "Dr. Rela Institute & Medical Centre", "location": [12.9863, 80.2046], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-014", "name": "Vijaya Hospital Vadapalani", "location": [13.0529, 80.2117], "priority_level": "private" },
+  { "hospital_id": "HOSP-015", "name": "Billroth Hospitals Shenoy Nagar", "location": [13.0786, 80.2295], "priority_level": "private" },
+
+  { "hospital_id": "HOSP-016", "name": "Sundaram Medical Foundation", "location": [13.0836, 80.1902], "priority_level": "private" },
+  { "hospital_id": "HOSP-017", "name": "ESI Hospital Ayanavaram", "location": [13.0989, 80.2342], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-018", "name": "Government Peripheral Hospital Anna Nagar", "location": [13.0850, 80.2101], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-019", "name": "Meenakshi Mission Hospital Maduravoyal", "location": [13.0654, 80.1651], "priority_level": "private" },
+  { "hospital_id": "HOSP-020", "name": "Lifeline Multispeciality Hospital", "location": [13.0415, 80.2271], "priority_level": "private" },
+
+  { "hospital_id": "HOSP-021", "name": "Apollo Hospitals OMR", "location": [12.9141, 80.2296], "priority_level": "private" },
+  { "hospital_id": "HOSP-022", "name": "Chettinad Hospital & Research Institute", "location": [12.7903, 80.2210], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-023", "name": "Gleneagles Global Health City", "location": [12.8916, 80.2265], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-024", "name": "Hindu Mission Hospital Tambaram", "location": [12.9249, 80.1200], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-025", "name": "Chromepet Government Hospital", "location": [12.9520, 80.1416], "priority_level": "secondary" },
+
+  { "hospital_id": "HOSP-026", "name": "Tagore Medical College Hospital", "location": [12.8210, 80.0437], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-027", "name": "SRM Medical College Hospital", "location": [12.8230, 80.0444], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-028", "name": "Prashanth Hospital Chetpet", "location": [13.0720, 80.2401], "priority_level": "private" },
+  { "hospital_id": "HOSP-029", "name": "Kauvery Hospital Alwarpet", "location": [13.0339, 80.2580], "priority_level": "private" },
+  { "hospital_id": "HOSP-030", "name": "Kauvery Hospital Vadapalani", "location": [13.0492, 80.2112], "priority_level": "private" },
+
+  { "hospital_id": "HOSP-031", "name": "Frontier Lifeline Hospital", "location": [13.0396, 80.2677], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-032", "name": "Madras Medical Mission Mogappair", "location": [13.0822, 80.1817], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-033", "name": "Apollo Children's Hospital", "location": [13.0621, 80.2490], "priority_level": "private" },
+  { "hospital_id": "HOSP-034", "name": "Voluntary Health Services Adyar", "location": [13.0062, 80.2560], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-035", "name": "Government Hospital Perambur", "location": [13.1184, 80.2328], "priority_level": "secondary" },
+
+  { "hospital_id": "HOSP-036", "name": "Apollo Speciality Hospital Vanagaram", "location": [13.0674, 80.1585], "priority_level": "private" },
+  { "hospital_id": "HOSP-037", "name": "Be Well Hospital T Nagar", "location": [13.0418, 80.2334], "priority_level": "private" },
+  { "hospital_id": "HOSP-038", "name": "Be Well Hospital Anna Nagar", "location": [13.0858, 80.2086], "priority_level": "private" },
+  { "hospital_id": "HOSP-039", "name": "Sree Balaji Medical College Hospital", "location": [12.9364, 80.1346], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-040", "name": "Government Hospital Saidapet", "location": [13.0220, 80.2299], "priority_level": "secondary" },
+
+  { "hospital_id": "HOSP-041", "name": "Government Hospital Tondiarpet", "location": [13.1341, 80.2904], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-042", "name": "Apollo First Med Hospital", "location": [13.0672, 80.2606], "priority_level": "private" },
+  { "hospital_id": "HOSP-043", "name": "Cloudnine Hospital OMR", "location": [12.9197, 80.2321], "priority_level": "private" },
+  { "hospital_id": "HOSP-044", "name": "Rainbow Children’s Hospital Guindy", "location": [13.0097, 80.2128], "priority_level": "private" },
+  { "hospital_id": "HOSP-045", "name": "SRM Global Hospitals Vadapalani", "location": [13.0521, 80.2106], "priority_level": "private" },
+
+  { "hospital_id": "HOSP-046", "name": "Deepam Hospital Pallavaram", "location": [12.9716, 80.1501], "priority_level": "private" },
+  { "hospital_id": "HOSP-047", "name": "Annai Arul Hospital Ambattur", "location": [13.1096, 80.1601], "priority_level": "private" },
+  { "hospital_id": "HOSP-048", "name": "Government Hospital Thiruvottiyur", "location": [13.1655, 80.3001], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-049", "name": "Apollo Clinic Velachery", "location": [12.9791, 80.2217], "priority_level": "private" },
+  { "hospital_id": "HOSP-050", "name": "Dr. Kamakshi Memorial Hospital", "location": [12.9551, 80.1393], "priority_level": "private" },
+
+  { "hospital_id": "HOSP-051", "name": "Sri Balaji Hospital Chromepet", "location": [12.9528, 80.1421], "priority_level": "private" },
+  { "hospital_id": "HOSP-052", "name": "Government Hospital Ambattur", "location": [13.1143, 80.1489], "priority_level": "secondary" },
+  { "hospital_id": "HOSP-053", "name": "Apollo Clinic Anna Nagar", "location": [13.0863, 80.2089], "priority_level": "private" },
+  { "hospital_id": "HOSP-054", "name": "Kanchi Kamakoti CHILDS Trust Hospital", "location": [13.0354, 80.2491], "priority_level": "tertiary" },
+  { "hospital_id": "HOSP-055", "name": "Ramakrishna Hospital West Mambalam", "location": [13.0392, 80.2235], "priority_level": "private" }
+]

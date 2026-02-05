@@ -1,0 +1,126 @@
+[
+  {
+    "ambulance_id": "AMB_001",
+    "plate_number": "TN01AB1001",
+    "hospital_id": "HOSP-001",
+    "type": "ALS",
+    "secret": "sec-amb-001",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_002",
+    "plate_number": "TN01AB1002",
+    "hospital_id": "HOSP-001",
+    "type": "BLS",
+    "secret": "sec-amb-002",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_003",
+    "plate_number": "TN01AB1003",
+    "hospital_id": "HOSP-001",
+    "type": "ALS",
+    "secret": "sec-amb-003",
+    "status": "active"
+  },
+
+  {
+    "ambulance_id": "AMB_004",
+    "plate_number": "TN02CD2001",
+    "hospital_id": "HOSP-002",
+    "type": "ALS",
+    "secret": "sec-amb-004",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_005",
+    "plate_number": "TN02CD2002",
+    "hospital_id": "HOSP-002",
+    "type": "BLS",
+    "secret": "sec-amb-005",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_006",
+    "plate_number": "TN02CD2003",
+    "hospital_id": "HOSP-002",
+    "type": "BLS",
+    "secret": "sec-amb-006",
+    "status": "active"
+  },
+
+  {
+    "ambulance_id": "AMB_007",
+    "plate_number": "TN03EF3001",
+    "hospital_id": "HOSP-003",
+    "type": "ALS",
+    "secret": "sec-amb-007",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_008",
+    "plate_number": "TN03EF3002",
+    "hospital_id": "HOSP-003",
+    "type": "ALS",
+    "secret": "sec-amb-008",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_009",
+    "plate_number": "TN03EF3003",
+    "hospital_id": "HOSP-003",
+    "type": "BLS",
+    "secret": "sec-amb-009",
+    "status": "active"
+  },
+
+  {
+    "ambulance_id": "AMB_010",
+    "plate_number": "TN04GH4001",
+    "hospital_id": "HOSP-004",
+    "type": "ALS",
+    "secret": "sec-amb-010",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_011",
+    "plate_number": "TN04GH4002",
+    "hospital_id": "HOSP-004",
+    "type": "BLS",
+    "secret": "sec-amb-011",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_012",
+    "plate_number": "TN04GH4003",
+    "hospital_id": "HOSP-004",
+    "type": "BLS",
+    "secret": "sec-amb-012",
+    "status": "active"
+  },
+
+  {
+    "ambulance_id": "AMB_013",
+    "plate_number": "TN05IJ5001",
+    "hospital_id": "HOSP-005",
+    "type": "ALS",
+    "secret": "sec-amb-013",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_014",
+    "plate_number": "TN05IJ5002",
+    "hospital_id": "HOSP-005",
+    "type": "BLS",
+    "secret": "sec-amb-014",
+    "status": "active"
+  },
+  {
+    "ambulance_id": "AMB_015",
+    "plate_number": "TN05IJ5003",
+    "hospital_id": "HOSP-005",
+    "type": "BLS",
+    "secret": "sec-amb-015",
+    "status": "active"
+  }
+]

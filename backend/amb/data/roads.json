@@ -1,0 +1,67 @@
+[
+  { "road_id": "RD-001", "name": "Anna Salai", "from_signal": "SIG-001", "to_signal": "SIG-002", "length_km": 1.8, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-002", "name": "Anna Salai Extension", "from_signal": "SIG-002", "to_signal": "SIG-003", "length_km": 3.2, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-003", "name": "Royapettah High Road", "from_signal": "SIG-001", "to_signal": "SIG-004", "length_km": 1.2, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-004", "name": "Usman Road", "from_signal": "SIG-005", "to_signal": "SIG-006", "length_km": 0.8, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-005", "name": "Poonamallee High Road", "from_signal": "SIG-007", "to_signal": "SIG-008", "length_km": 6.5, "lanes": 4, "speed_limit": 60 },
+
+  { "road_id": "RD-006", "name": "Arcot Road", "from_signal": "SIG-008", "to_signal": "SIG-009", "length_km": 2.1, "lanes": 3, "speed_limit": 50 },
+  { "road_id": "RD-007", "name": "100 Feet Road", "from_signal": "SIG-003", "to_signal": "SIG-011", "length_km": 1.9, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-008", "name": "GST Road", "from_signal": "SIG-011", "to_signal": "SIG-010", "length_km": 1.5, "lanes": 4, "speed_limit": 60 },
+  { "road_id": "RD-009", "name": "Sardar Patel Road", "from_signal": "SIG-010", "to_signal": "SIG-012", "length_km": 2.8, "lanes": 3, "speed_limit": 50 },
+  { "road_id": "RD-010", "name": "ECR Link Road", "from_signal": "SIG-012", "to_signal": "SIG-013", "length_km": 1.4, "lanes": 2, "speed_limit": 40 },
+
+  { "road_id": "RD-011", "name": "Kilpauk Garden Road", "from_signal": "SIG-014", "to_signal": "SIG-007", "length_km": 3.2, "lanes": 3, "speed_limit": 50 },
+  { "road_id": "RD-012", "name": "Egmore Bridge Road", "from_signal": "SIG-015", "to_signal": "SIG-014", "length_km": 0.9, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-013", "name": "Pantheon Road", "from_signal": "SIG-001", "to_signal": "SIG-015", "length_km": 1.1, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-014", "name": "Anna Nagar 2nd Avenue", "from_signal": "SIG-007", "to_signal": "SIG-014", "length_km": 2.5, "lanes": 2, "speed_limit": 40 },
+  { "road_id": "RD-015", "name": "Kodambakkam High Road", "from_signal": "SIG-008", "to_signal": "SIG-005", "length_km": 1.7, "lanes": 3, "speed_limit": 40 },
+
+  { "road_id": "RD-016", "name": "Venkatanarayana Road", "from_signal": "SIG-005", "to_signal": "SIG-003", "length_km": 2.4, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-017", "name": "Nungambakkam High Road", "from_signal": "SIG-002", "to_signal": "SIG-004", "length_km": 1.4, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-018", "name": "Dr. Radhakrishnan Salai", "from_signal": "SIG-002", "to_signal": "SIG-015", "length_km": 0.7, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-019", "name": "Cenotaph Road", "from_signal": "SIG-003", "to_signal": "SIG-012", "length_km": 4.1, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-020", "name": "Inner Ring Road Segment 1", "from_signal": "SIG-010", "to_signal": "SIG-009", "length_km": 3.8, "lanes": 4, "speed_limit": 60 },
+
+  { "road_id": "RD-021", "name": "Jawaharlal Nehru Road", "from_signal": "SIG-009", "to_signal": "SIG-016", "length_km": 5.4, "lanes": 4, "speed_limit": 60 },
+  { "road_id": "RD-022", "name": "Mount Road Service Lane", "from_signal": "SIG-002", "to_signal": "SIG-017", "length_km": 1.3, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-023", "name": "Cathedral Road", "from_signal": "SIG-015", "to_signal": "SIG-018", "length_km": 1.6, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-024", "name": "Greenways Road", "from_signal": "SIG-018", "to_signal": "SIG-019", "length_km": 2.2, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-025", "name": "Kamarajar Salai", "from_signal": "SIG-019", "to_signal": "SIG-020", "length_km": 3.5, "lanes": 4, "speed_limit": 50 },
+
+  { "road_id": "RD-026", "name": "Santhome High Road", "from_signal": "SIG-018", "to_signal": "SIG-021", "length_km": 1.9, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-027", "name": "OMR Sholinganallur Stretch", "from_signal": "SIG-013", "to_signal": "SIG-022", "length_km": 6.8, "lanes": 6, "speed_limit": 60 },
+  { "road_id": "RD-028", "name": "Velachery Main Road", "from_signal": "SIG-012", "to_signal": "SIG-023", "length_km": 3.6, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-029", "name": "Tambaram Velachery Road", "from_signal": "SIG-023", "to_signal": "SIG-010", "length_km": 4.9, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-030", "name": "Medavakkam Main Road", "from_signal": "SIG-022", "to_signal": "SIG-024", "length_km": 3.1, "lanes": 3, "speed_limit": 40 },
+
+  { "road_id": "RD-031", "name": "Perambur High Road", "from_signal": "SIG-025", "to_signal": "SIG-026", "length_km": 2.7, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-032", "name": "Paper Mills Road", "from_signal": "SIG-026", "to_signal": "SIG-027", "length_km": 1.5, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-033", "name": "Madhavaram High Road", "from_signal": "SIG-027", "to_signal": "SIG-028", "length_km": 4.2, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-034", "name": "Red Hills Road", "from_signal": "SIG-028", "to_signal": "SIG-029", "length_km": 5.9, "lanes": 4, "speed_limit": 60 },
+  { "road_id": "RD-035", "name": "Ambattur Industrial Estate Road", "from_signal": "SIG-030", "to_signal": "SIG-031", "length_km": 3.3, "lanes": 3, "speed_limit": 40 },
+
+  { "road_id": "RD-036", "name": "Mogappair East Road", "from_signal": "SIG-031", "to_signal": "SIG-032", "length_km": 2.1, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-037", "name": "Mogappair West Road", "from_signal": "SIG-032", "to_signal": "SIG-009", "length_km": 2.6, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-038", "name": "Thirumangalam Road", "from_signal": "SIG-009", "to_signal": "SIG-007", "length_km": 1.8, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-039", "name": "Nelson Manickam Road", "from_signal": "SIG-014", "to_signal": "SIG-002", "length_km": 2.9, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-040", "name": "Harrington Road", "from_signal": "SIG-014", "to_signal": "SIG-001", "length_km": 1.3, "lanes": 2, "speed_limit": 30 },
+
+  { "road_id": "RD-041", "name": "Spencer Plaza Road", "from_signal": "SIG-015", "to_signal": "SIG-002", "length_km": 0.6, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-042", "name": "Mint Street", "from_signal": "SIG-033", "to_signal": "SIG-034", "length_km": 2.4, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-043", "name": "Broadway Road", "from_signal": "SIG-034", "to_signal": "SIG-001", "length_km": 1.9, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-044", "name": "Tondiarpet High Road", "from_signal": "SIG-035", "to_signal": "SIG-033", "length_km": 3.7, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-045", "name": "Ennore High Road", "from_signal": "SIG-035", "to_signal": "SIG-036", "length_km": 6.1, "lanes": 4, "speed_limit": 60 },
+
+  { "road_id": "RD-046", "name": "Mandaveli Street", "from_signal": "SIG-019", "to_signal": "SIG-037", "length_km": 1.1, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-047", "name": "Alwarpet Road", "from_signal": "SIG-037", "to_signal": "SIG-003", "length_km": 1.6, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-048", "name": "TTK Road", "from_signal": "SIG-003", "to_signal": "SIG-018", "length_km": 2.3, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-049", "name": "Kotturpuram Road", "from_signal": "SIG-012", "to_signal": "SIG-038", "length_km": 2.7, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-050", "name": "Adyar Bridge Road", "from_signal": "SIG-038", "to_signal": "SIG-021", "length_km": 1.5, "lanes": 4, "speed_limit": 50 },
+
+  { "road_id": "RD-051", "name": "Besant Nagar 1st Avenue", "from_signal": "SIG-021", "to_signal": "SIG-039", "length_km": 1.2, "lanes": 2, "speed_limit": 30 },
+  { "road_id": "RD-052", "name": "LB Road", "from_signal": "SIG-021", "to_signal": "SIG-040", "length_km": 3.9, "lanes": 4, "speed_limit": 50 },
+  { "road_id": "RD-053", "name": "Thiruvanmiyur Kuppam Road", "from_signal": "SIG-040", "to_signal": "SIG-013", "length_km": 2.6, "lanes": 3, "speed_limit": 40 },
+  { "road_id": "RD-054", "name": "Velachery Bypass Road", "from_signal": "SIG-023", "to_signal": "SIG-041", "length_km": 4.4, "lanes": 4, "speed_limit": 60 },
+  { "road_id": "RD-055", "name": "Pallavaram Radial Road", "from_signal": "SIG-041", "to_signal": "SIG-010", "length_km": 3.8, "lanes": 4, "speed_limit": 60 }
+]

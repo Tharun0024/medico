@@ -22,6 +22,12 @@ from app.api.waste_dashboard import router as waste_dashboard_router
 from app.api.emergency_dashboard import router as emergency_dashboard_router
 from app.api.medical_dashboard import router as medical_dashboard_router
 from app.api.simulation import router as simulation_router
+from app.notifications.api import router as notifications_router
+from app.api.control_room.api import router as control_room_router
+from app.api.hospital_admin.api import router as hospital_admin_router
+from app.api.medical_staff.api import router as medical_staff_router
+from app.api.waste_team.api import router as waste_team_router
+from app.api.super_admin.api import router as super_admin_router
 
 # Simulation imports
 from app.simulation.base_simulator import simulation_manager
@@ -114,6 +120,12 @@ app.include_router(hospital_dashboard_router, prefix="/api")
 app.include_router(waste_dashboard_router, prefix="/api")
 app.include_router(emergency_dashboard_router, prefix="/api")
 app.include_router(medical_dashboard_router, prefix="/api")
+app.include_router(notifications_router, prefix="/api")
+app.include_router(control_room_router)  # Mounted at /api/control
+app.include_router(hospital_admin_router)  # Mounted at /api/hospital (Phase-2)
+app.include_router(medical_staff_router)  # Mounted at /api/medical (Phase-2)
+app.include_router(waste_team_router)  # Mounted at /api/waste (Phase-2)
+app.include_router(super_admin_router)  # Mounted at /api/admin (Phase-2 Governance)
 app.include_router(simulation_router)  # No /api prefix - mounted at /simulation
 
 

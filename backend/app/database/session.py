@@ -30,3 +30,7 @@ async def get_db() -> AsyncSession:
             yield session
         finally:
             await session.close()
+
+
+# Alias for Phase-2 APIs
+get_session = get_db

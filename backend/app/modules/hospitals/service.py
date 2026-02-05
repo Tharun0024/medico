@@ -19,9 +19,20 @@ class HospitalService:
 
     async def create_hospital(self, data: HospitalCreate) -> HospitalResponse:
         """Create a new hospital."""
+        # If no explicit ID provided, auto-generate one
+        hospital_id = data.id
+        if hospital_id is None:
+            # Get max ID and increment
+            max_id = await self._repository.get_max_id()
+            hospital_id = (max_id or 0) + 1
+        
         hospital = Hospital(
+            id=hospital_id,
+            amb_id=data.amb_id,  # Can be None for manually created hospitals
             name=data.name,
             city=data.city,
+            lat=data.lat,
+            lng=data.lng,
             status=data.status,
         )
         created = await self._repository.create(hospital)

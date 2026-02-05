@@ -1,0 +1,214 @@
+{
+  "HOSP-001": {
+    "hospital_name": "Rajiv Gandhi Government General Hospital",
+    "signal_sequence": ["SIG-001", "SIG-002", "SIG-015", "SIG-014"],
+    "description": "Main route from Anna Salai through Egmore"
+  },
+  "HOSP-002": {
+    "hospital_name": "Stanley Medical College Hospital",
+    "signal_sequence": ["SIG-001", "SIG-015", "SIG-014", "SIG-033"],
+    "description": "Central Chennai to North Chennai via Egmore"
+  },
+  "HOSP-003": {
+    "hospital_name": "Apollo Hospitals Greams Road",
+    "signal_sequence": ["SIG-001", "SIG-002", "SIG-004"],
+    "description": "Anna Salai to Greams Road via Thousand Lights"
+  },
+  "HOSP-004": {
+    "hospital_name": "Fortis Malar Hospital",
+    "signal_sequence": ["SIG-003", "SIG-011", "SIG-010", "SIG-012"],
+    "description": "Teynampet to Adyar via Guindy"
+  },
+  "HOSP-005": {
+    "hospital_name": "Government Kilpauk Medical College",
+    "signal_sequence": ["SIG-014", "SIG-007"],
+    "description": "Anna Nagar to Kilpauk corridor"
+  },
+
+  "HOSP-006": {
+    "hospital_name": "Sri Ramachandra Medical Centre",
+    "signal_sequence": ["SIG-008", "SIG-009", "SIG-031"],
+    "description": "Poonamallee to Porur corridor"
+  },
+  "HOSP-007": {
+    "hospital_name": "MIOT International Hospital",
+    "signal_sequence": ["SIG-008", "SIG-009", "SIG-030"],
+    "description": "Vadapalani to Manapakkam route"
+  },
+  "HOSP-008": {
+    "hospital_name": "Global Hospital Chennai",
+    "signal_sequence": ["SIG-010", "SIG-012", "SIG-022"],
+    "description": "Guindy to Perumbakkam route"
+  },
+  "HOSP-009": {
+    "hospital_name": "SIMS Hospital Vadapalani",
+    "signal_sequence": ["SIG-005", "SIG-008"],
+    "description": "T Nagar to Vadapalani direct route"
+  },
+  "HOSP-010": {
+    "hospital_name": "Government Royapettah Hospital",
+    "signal_sequence": ["SIG-001", "SIG-004"],
+    "description": "Mount Road to Royapettah"
+  },
+
+  "HOSP-011": {
+    "hospital_name": "Institute of Child Health Egmore",
+    "signal_sequence": ["SIG-015", "SIG-014"],
+    "description": "Egmore children hospital corridor"
+  },
+  "HOSP-012": {
+    "hospital_name": "Adyar Cancer Institute",
+    "signal_sequence": ["SIG-012", "SIG-021"],
+    "description": "Guindy to Adyar route"
+  },
+  "HOSP-013": {
+    "hospital_name": "Dr Rela Institute Chromepet",
+    "signal_sequence": ["SIG-041", "SIG-010"],
+    "description": "Pallavaram Radial Road corridor"
+  },
+  "HOSP-014": {
+    "hospital_name": "Vijaya Hospital Vadapalani",
+    "signal_sequence": ["SIG-005", "SIG-008"],
+    "description": "Inner city west corridor"
+  },
+  "HOSP-015": {
+    "hospital_name": "Billroth Hospital Shenoy Nagar",
+    "signal_sequence": ["SIG-014", "SIG-039"],
+    "description": "Kilpauk to Shenoy Nagar"
+  },
+
+  "HOSP-016": {
+    "hospital_name": "Sundaram Medical Foundation",
+    "signal_sequence": ["SIG-007", "SIG-039"],
+    "description": "Anna Nagar to Mogappair corridor"
+  },
+  "HOSP-017": {
+    "hospital_name": "ESI Hospital Ayanavaram",
+    "signal_sequence": ["SIG-014", "SIG-025"],
+    "description": "Kilpauk to Ayanavaram"
+  },
+  "HOSP-018": {
+    "hospital_name": "Government Hospital Anna Nagar",
+    "signal_sequence": ["SIG-007"],
+    "description": "Anna Nagar inner loop"
+  },
+  "HOSP-019": {
+    "hospital_name": "Meenakshi Mission Maduravoyal",
+    "signal_sequence": ["SIG-009", "SIG-031"],
+    "description": "Mogappair to Maduravoyal"
+  },
+  "HOSP-020": {
+    "hospital_name": "Lifeline Multispeciality Hospital",
+    "signal_sequence": ["SIG-003", "SIG-037"],
+    "description": "Alwarpet corridor"
+  },
+
+  "HOSP-021": {
+    "hospital_name": "Apollo Hospital OMR",
+    "signal_sequence": ["SIG-013", "SIG-022"],
+    "description": "OMR IT corridor"
+  },
+  "HOSP-022": {
+    "hospital_name": "Chettinad Hospital",
+    "signal_sequence": ["SIG-022", "SIG-024"],
+    "description": "OMR to Kelambakkam route"
+  },
+  "HOSP-023": {
+    "hospital_name": "Global Health City",
+    "signal_sequence": ["SIG-013", "SIG-022"],
+    "description": "Sholinganallur to Perumbakkam"
+  },
+  "HOSP-024": {
+    "hospital_name": "Hindu Mission Hospital",
+    "signal_sequence": ["SIG-010", "SIG-041"],
+    "description": "Guindy to Tambaram route"
+  },
+  "HOSP-025": {
+    "hospital_name": "Chromepet Government Hospital",
+    "signal_sequence": ["SIG-041"],
+    "description": "Chromepet radial road route"
+  },
+
+  "HOSP-026": {
+    "hospital_name": "SRM Medical College",
+    "signal_sequence": ["SIG-024"],
+    "description": "Guduvanchery highway corridor"
+  },
+  "HOSP-027": {
+    "hospital_name": "Tagore Medical College",
+    "signal_sequence": ["SIG-024"],
+    "description": "Vandalur rural corridor"
+  },
+  "HOSP-028": {
+    "hospital_name": "Prashanth Hospital Chetpet",
+    "signal_sequence": ["SIG-014", "SIG-002"],
+    "description": "Chetpet inner city route"
+  },
+  "HOSP-029": {
+    "hospital_name": "Kauvery Hospital Alwarpet",
+    "signal_sequence": ["SIG-003", "SIG-037"],
+    "description": "TTK Road to Alwarpet"
+  },
+  "HOSP-030": {
+    "hospital_name": "Kauvery Hospital Vadapalani",
+    "signal_sequence": ["SIG-005", "SIG-008"],
+    "description": "Vadapalani main route"
+  },
+
+  "HOSP-031": {
+    "hospital_name": "Frontier Lifeline",
+    "signal_sequence": ["SIG-018", "SIG-021"],
+    "description": "Santhome coastal corridor"
+  },
+  "HOSP-032": {
+    "hospital_name": "Madras Medical Mission",
+    "signal_sequence": ["SIG-039", "SIG-009"],
+    "description": "Mogappair east-west corridor"
+  },
+  "HOSP-033": {
+    "hospital_name": "Apollo First Med",
+    "signal_sequence": ["SIG-002", "SIG-041"],
+    "description": "Kilpauk to city center"
+  },
+  "HOSP-034": {
+    "hospital_name": "Government Hospital Perambur",
+    "signal_sequence": ["SIG-025", "SIG-026"],
+    "description": "Perambur high road route"
+  },
+  "HOSP-035": {
+    "hospital_name": "Government Hospital Tondiarpet",
+    "signal_sequence": ["SIG-033", "SIG-035"],
+    "description": "North Chennai industrial corridor"
+  },
+
+  "EMERGENCY_CROSS_CITY_NORTH_1": {
+    "hospital_name": "Cross City North Route 1",
+    "signal_sequence": ["SIG-007", "SIG-014", "SIG-015", "SIG-001"],
+    "description": "Anna Nagar to Central Chennai"
+  },
+  "EMERGENCY_CROSS_CITY_NORTH_2": {
+    "hospital_name": "Cross City North Route 2",
+    "signal_sequence": ["SIG-025", "SIG-014", "SIG-002"],
+    "description": "Perambur to Mount Road"
+  },
+  "EMERGENCY_CROSS_CITY_WEST_1": {
+    "hospital_name": "Cross City West Route 1",
+    "signal_sequence": ["SIG-008", "SIG-009", "SIG-005", "SIG-003"],
+    "description": "Porur to Teynampet"
+  },
+  "EMERGENCY_CROSS_CITY_WEST_2": {
+    "hospital_name": "Cross City West Route 2",
+    "signal_sequence": ["SIG-030", "SIG-031", "SIG-009"],
+    "description": "Ambattur to Mogappair"
+  },
+  "EMERGENCY_CROSS_CITY_SOUTH_1": {
+    "hospital_name": "Cross City South Route 1",
+    "signal_sequence": ["SIG-013", "SIG-012", "SIG-010"],
+    "description": "OMR to Guindy"
+  },
+  "EMERGENCY_CROSS_CITY_SOUTH_2": {
+    "hospital_name": "Cross City South Route 2",
+    "signal_sequence": ["SIG-041", "SIG-010", "SIG-003"],
+    "description": "Tambaram to City Center"
+  }
+}

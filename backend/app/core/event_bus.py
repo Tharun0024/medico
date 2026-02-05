@@ -22,21 +22,51 @@ class EventType(str, Enum):
     EMERGENCY_ASSIGNED = "emergency.assigned"
     EMERGENCY_RESOLVED = "emergency.resolved"
     EMERGENCY_FAILED = "emergency.failed"
+    EMERGENCY_MANUALLY_ASSIGNED = "emergency.manually_assigned"  # Control room manual
+    EMERGENCY_REASSIGNED = "emergency.reassigned"  # Control room reassignment
     
     # Bed events
     BED_RESERVED = "bed.reserved"
     BED_RELEASED = "bed.released"
     BED_OCCUPANCY_UPDATED = "bed.occupancy.updated"
     
-    # Hospital events (for future use)
+    # Hospital events
     HOSPITAL_REGISTERED = "hospital.registered"
     HOSPITAL_UPDATED = "hospital.updated"
+    HOSPITAL_NOTIFIED_INCOMING = "hospital.notified.incoming_emergency"  # Control room assignment
     
     # Waste events
     WASTE_GENERATED = "waste.generated"
     WASTE_THRESHOLD_WARNING = "waste.threshold.warning"
     WASTE_THRESHOLD_CRITICAL = "waste.threshold.critical"
     WASTE_COLLECTED = "waste.collected"
+    WASTE_PICKUP_REQUESTED = "waste.pickup.requested"  # Hospital admin request
+    
+    # Hospital capacity events
+    HOSPITAL_CAPACITY_UPDATED = "hospital.capacity.updated"  # Ward capacity change
+    
+    # Patient events (Medical Staff)
+    PATIENT_ADMITTED = "patient.admitted"
+    PATIENT_BED_ASSIGNED = "patient.bed.assigned"
+    PATIENT_TRANSFERRED = "patient.transferred"
+    PATIENT_DISCHARGED = "patient.discharged"
+    PATIENT_TREATMENT_UPDATED = "patient.treatment.updated"
+    
+    # Waste events (Medical Staff)
+    WASTE_REPORTED = "waste.reported"
+    WASTE_PREDICTION_UPDATED = "waste.prediction.updated"
+    
+    # Waste events (Waste Team)
+    WASTE_DISPOSED = "waste.disposed"
+    WASTE_PAYMENT_COMPLETED = "waste.payment.completed"
+    
+    # Super Admin events (Governance)
+    ADMIN_NOTICE_SENT = "admin.notice.sent"
+    OUTBREAK_RISK_DETECTED = "outbreak.risk.detected"
+    
+    # Notification events
+    NOTIFICATION_CREATED = "notification.created"
+    NOTIFICATION_READ = "notification.read"
 
 
 @dataclass

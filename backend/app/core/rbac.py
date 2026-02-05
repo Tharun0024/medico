@@ -20,6 +20,7 @@ class UserRole(str, Enum):
     MEDICAL_STAFF = "medical_staff"      # Ward-level staff
     WASTE_TEAM = "waste_team"            # Waste management team
     EMERGENCY_SERVICE = "emergency_service"  # Emergency services
+    CONTROL_ROOM = "control_room"        # Control room operators (Phase-2)
 
 
 @dataclass
@@ -45,8 +46,8 @@ class RequestContext:
     
     def can_access_hospital(self, hospital_id: int) -> bool:
         """Check if this context can access a specific hospital."""
-        # Super admin and emergency services can access all
-        if self.role in (UserRole.SUPER_ADMIN, UserRole.EMERGENCY_SERVICE):
+        # Super admin, emergency services, and control room can access all
+        if self.role in (UserRole.SUPER_ADMIN, UserRole.EMERGENCY_SERVICE, UserRole.CONTROL_ROOM):
             return True
         # Others need matching hospital_id
         return self.hospital_id == hospital_id
@@ -157,3 +158,7 @@ def require_hospital_access(hospital_id_param: str = "hospital_id") -> Callable:
 ADMIN_ROLES = (UserRole.SUPER_ADMIN, UserRole.HOSPITAL_ADMIN)
 OPERATIONAL_ROLES = (UserRole.HOSPITAL_ADMIN, UserRole.MEDICAL_STAFF)
 ALL_ROLES = tuple(UserRole)
+
+# Aliases for Phase-2 API compatibility
+Role = UserRole
+get_request_context = get_current_context

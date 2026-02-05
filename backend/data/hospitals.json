@@ -1,0 +1,207 @@
+{
+  "_description": "Shared hospital data - SINGLE SOURCE OF TRUTH for MEDICO and AMB",
+  "_note": "IDs are string (HOSP-XXX) for AMB, mapped to integers (1, 2, 3...) for MEDICO DB",
+  "_updated": "2025-01-01",
+  "hospitals": [
+    {
+      "id": "HOSP-001",
+      "medico_id": 1,
+      "name": "Apollo Hospital Greams Road",
+      "city": "Chennai",
+      "lat": 13.0547,
+      "lng": 80.2526,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-002",
+      "medico_id": 2,
+      "name": "Government General Hospital",
+      "city": "Chennai",
+      "lat": 13.0878,
+      "lng": 80.2785,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-003",
+      "medico_id": 3,
+      "name": "MIOT International",
+      "city": "Chennai",
+      "lat": 13.0132,
+      "lng": 80.1715,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-004",
+      "medico_id": 4,
+      "name": "Fortis Malar Hospital",
+      "city": "Chennai",
+      "lat": 13.0078,
+      "lng": 80.2569,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-005",
+      "medico_id": 5,
+      "name": "Kauvery Hospital Alwarpet",
+      "city": "Chennai",
+      "lat": 13.0312,
+      "lng": 80.2518,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-006",
+      "medico_id": 6,
+      "name": "SIMS Hospital Vadapalani",
+      "city": "Chennai",
+      "lat": 12.9950,
+      "lng": 80.2230,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-007",
+      "medico_id": 7,
+      "name": "Rajiv Gandhi Government General Hospital",
+      "city": "Chennai",
+      "lat": 13.0820,
+      "lng": 80.2707,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-008",
+      "medico_id": 8,
+      "name": "Stanley Medical College Hospital",
+      "city": "Chennai",
+      "lat": 13.1050,
+      "lng": 80.2840,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-009",
+      "medico_id": 9,
+      "name": "Kilpauk Medical College Hospital",
+      "city": "Chennai",
+      "lat": 13.0812,
+      "lng": 80.2420,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-010",
+      "medico_id": 10,
+      "name": "Institute of Child Health and Hospital",
+      "city": "Chennai",
+      "lat": 13.0680,
+      "lng": 80.2785,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-011",
+      "medico_id": 11,
+      "name": "Madras Medical College Hospital",
+      "city": "Chennai",
+      "lat": 13.0780,
+      "lng": 80.2830,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-012",
+      "medico_id": 12,
+      "name": "Sundaram Medical Foundation",
+      "city": "Chennai",
+      "lat": 13.0855,
+      "lng": 80.2115,
+      "priority_level": "secondary",
+      "active": true
+    },
+    {
+      "id": "HOSP-013",
+      "medico_id": 13,
+      "name": "Vijaya Hospital Vadapalani",
+      "city": "Chennai",
+      "lat": 13.0511,
+      "lng": 80.2132,
+      "priority_level": "secondary",
+      "active": true
+    },
+    {
+      "id": "HOSP-014",
+      "medico_id": 14,
+      "name": "Global Hospitals OMR",
+      "city": "Chennai",
+      "lat": 12.9520,
+      "lng": 80.2410,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-015",
+      "medico_id": 15,
+      "name": "Apollo Speciality Hospitals OMR",
+      "city": "Chennai",
+      "lat": 12.9080,
+      "lng": 80.2280,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-016",
+      "medico_id": 16,
+      "name": "MGM Healthcare",
+      "city": "Chennai",
+      "lat": 12.9812,
+      "lng": 80.2562,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-017",
+      "medico_id": 17,
+      "name": "Sri Ramachandra Medical Centre",
+      "city": "Chennai",
+      "lat": 13.0390,
+      "lng": 80.1420,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-018",
+      "medico_id": 18,
+      "name": "Gleneagles Global Health City",
+      "city": "Chennai",
+      "lat": 12.9515,
+      "lng": 80.2405,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-019",
+      "medico_id": 19,
+      "name": "Chettinad Super Speciality Hospital",
+      "city": "Chennai",
+      "lat": 12.8150,
+      "lng": 80.0350,
+      "priority_level": "tertiary",
+      "active": true
+    },
+    {
+      "id": "HOSP-020",
+      "medico_id": 20,
+      "name": "VHS Hospital Adyar",
+      "city": "Chennai",
+      "lat": 13.0062,
+      "lng": 80.2560,
+      "priority_level": "secondary",
+      "active": true
+    }
+  ]
+}

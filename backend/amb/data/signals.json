@@ -1,0 +1,66 @@
+[
+  { "signal_id": "SIG-001", "name": "Anna Salai - Mount Road Junction", "location": [13.0827, 80.2707], "zone": "Central", "capacity_vehicles_per_hour": 2400 },
+  { "signal_id": "SIG-002", "name": "Thousand Lights", "location": [13.0665, 80.2567], "zone": "Central", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-003", "name": "Teynampet Junction", "location": [13.0396, 80.2483], "zone": "South", "capacity_vehicles_per_hour": 1800 },
+  { "signal_id": "SIG-004", "name": "Royapettah High Road", "location": [13.0523, 80.2641], "zone": "Central", "capacity_vehicles_per_hour": 1600 },
+  { "signal_id": "SIG-005", "name": "T Nagar – Pondy Bazaar", "location": [13.0418, 80.2341], "zone": "West", "capacity_vehicles_per_hour": 3200 },
+  { "signal_id": "SIG-006", "name": "T Nagar – Ranganathan Street", "location": [13.0389, 80.2298], "zone": "West", "capacity_vehicles_per_hour": 2800 },
+  { "signal_id": "SIG-007", "name": "Anna Nagar Roundabout", "location": [13.0850, 80.2088], "zone": "North", "capacity_vehicles_per_hour": 2600 },
+  { "signal_id": "SIG-008", "name": "Vadapalani Junction", "location": [13.0505, 80.2121], "zone": "West", "capacity_vehicles_per_hour": 2200 },
+  { "signal_id": "SIG-009", "name": "Ashok Nagar Signal", "location": [13.0325, 80.2089], "zone": "West", "capacity_vehicles_per_hour": 1800 },
+  { "signal_id": "SIG-010", "name": "Guindy Junction", "location": [13.0067, 80.2206], "zone": "South", "capacity_vehicles_per_hour": 2400 },
+
+  { "signal_id": "SIG-011", "name": "Saidapet Junction", "location": [13.0207, 80.2231], "zone": "South", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-012", "name": "Adyar Signal", "location": [13.0067, 80.2571], "zone": "South", "capacity_vehicles_per_hour": 1900 },
+  { "signal_id": "SIG-013", "name": "Besant Nagar Beach Road", "location": [12.9988, 80.2695], "zone": "South", "capacity_vehicles_per_hour": 1400 },
+  { "signal_id": "SIG-014", "name": "Kilpauk Signal", "location": [13.0782, 80.2401], "zone": "North", "capacity_vehicles_per_hour": 1700 },
+  { "signal_id": "SIG-015", "name": "Egmore Junction", "location": [13.0732, 80.2609], "zone": "Central", "capacity_vehicles_per_hour": 2500 },
+
+  { "signal_id": "SIG-016", "name": "Koyambedu Omni Bus Stand", "location": [13.0695, 80.2053], "zone": "West", "capacity_vehicles_per_hour": 3000 },
+  { "signal_id": "SIG-017", "name": "CMBT Junction", "location": [13.0690, 80.2041], "zone": "West", "capacity_vehicles_per_hour": 3200 },
+  { "signal_id": "SIG-018", "name": "Cathedral Road Junction", "location": [13.0447, 80.2611], "zone": "Central", "capacity_vehicles_per_hour": 1800 },
+  { "signal_id": "SIG-019", "name": "Mandaveli Junction", "location": [13.0314, 80.2671], "zone": "South", "capacity_vehicles_per_hour": 1600 },
+  { "signal_id": "SIG-020", "name": "Marina Beach Road", "location": [13.0500, 80.2824], "zone": "Central", "capacity_vehicles_per_hour": 2200 },
+
+  { "signal_id": "SIG-021", "name": "Santhome Junction", "location": [13.0279, 80.2754], "zone": "South", "capacity_vehicles_per_hour": 1700 },
+  { "signal_id": "SIG-022", "name": "Sholinganallur Junction", "location": [12.8996, 80.2275], "zone": "South", "capacity_vehicles_per_hour": 3500 },
+  { "signal_id": "SIG-023", "name": "Velachery Junction", "location": [12.9791, 80.2217], "zone": "South", "capacity_vehicles_per_hour": 2800 },
+  { "signal_id": "SIG-024", "name": "Medavakkam Junction", "location": [12.9175, 80.1926], "zone": "South", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-025", "name": "Perambur Signal", "location": [13.1184, 80.2328], "zone": "North", "capacity_vehicles_per_hour": 1900 },
+
+  { "signal_id": "SIG-026", "name": "Paper Mills Road Junction", "location": [13.1136, 80.2402], "zone": "North", "capacity_vehicles_per_hour": 1600 },
+  { "signal_id": "SIG-027", "name": "Madhavaram Junction", "location": [13.1485, 80.2301], "zone": "North", "capacity_vehicles_per_hour": 2600 },
+  { "signal_id": "SIG-028", "name": "Red Hills Signal", "location": [13.1913, 80.1997], "zone": "North", "capacity_vehicles_per_hour": 2800 },
+  { "signal_id": "SIG-029", "name": "Ambattur OT Junction", "location": [13.1143, 80.1489], "zone": "West", "capacity_vehicles_per_hour": 2400 },
+  { "signal_id": "SIG-030", "name": "Ambattur Industrial Estate", "location": [13.1087, 80.1643], "zone": "West", "capacity_vehicles_per_hour": 2600 },
+
+  { "signal_id": "SIG-031", "name": "Mogappair East Junction", "location": [13.0834, 80.1802], "zone": "West", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-032", "name": "Mogappair West Junction", "location": [13.0812, 80.1701], "zone": "West", "capacity_vehicles_per_hour": 1900 },
+  { "signal_id": "SIG-033", "name": "Broadway Junction", "location": [13.0954, 80.2851], "zone": "Central", "capacity_vehicles_per_hour": 3000 },
+  { "signal_id": "SIG-034", "name": "George Town Mint Street", "location": [13.0959, 80.2806], "zone": "Central", "capacity_vehicles_per_hour": 2200 },
+  { "signal_id": "SIG-035", "name": "Tondiarpet Junction", "location": [13.1341, 80.2904], "zone": "North", "capacity_vehicles_per_hour": 2400 },
+
+  { "signal_id": "SIG-036", "name": "Ennore Junction", "location": [13.2146, 80.3204], "zone": "North", "capacity_vehicles_per_hour": 2600 },
+  { "signal_id": "SIG-037", "name": "Alwarpet Junction", "location": [13.0337, 80.2552], "zone": "South", "capacity_vehicles_per_hour": 1700 },
+  { "signal_id": "SIG-038", "name": "Kotturpuram Junction", "location": [13.0215, 80.2484], "zone": "South", "capacity_vehicles_per_hour": 1800 },
+  { "signal_id": "SIG-039", "name": "Shenoy Nagar Junction", "location": [13.0789, 80.2261], "zone": "North", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-040", "name": "Thiruvanmiyur Signal", "location": [12.9894, 80.2594], "zone": "South", "capacity_vehicles_per_hour": 2100 },
+
+  { "signal_id": "SIG-041", "name": "Pallavaram Radial Road", "location": [12.9716, 80.1501], "zone": "South", "capacity_vehicles_per_hour": 3000 },
+  { "signal_id": "SIG-042", "name": "Chromepet Signal", "location": [12.9520, 80.1416], "zone": "South", "capacity_vehicles_per_hour": 2600 },
+  { "signal_id": "SIG-043", "name": "Tambaram Junction", "location": [12.9249, 80.1200], "zone": "South", "capacity_vehicles_per_hour": 3200 },
+  { "signal_id": "SIG-044", "name": "Perungalathur Junction", "location": [12.8912, 80.0829], "zone": "South", "capacity_vehicles_per_hour": 2800 },
+  { "signal_id": "SIG-045", "name": "Guduvanchery Signal", "location": [12.8452, 80.0601], "zone": "South", "capacity_vehicles_per_hour": 3000 },
+
+  { "signal_id": "SIG-046", "name": "OMR Navalur Junction", "location": [12.8435, 80.2267], "zone": "South", "capacity_vehicles_per_hour": 3400 },
+  { "signal_id": "SIG-047", "name": "Siruseri SIPCOT", "location": [12.8230, 80.2297], "zone": "South", "capacity_vehicles_per_hour": 3600 },
+  { "signal_id": "SIG-048", "name": "Kelambakkam Junction", "location": [12.7876, 80.2210], "zone": "South", "capacity_vehicles_per_hour": 3000 },
+  { "signal_id": "SIG-049", "name": "ECR Injambakkam", "location": [12.9238, 80.2516], "zone": "South", "capacity_vehicles_per_hour": 1800 },
+  { "signal_id": "SIG-050", "name": "ECR Neelankarai", "location": [12.9494, 80.2547], "zone": "South", "capacity_vehicles_per_hour": 2000 },
+
+  { "signal_id": "SIG-051", "name": "Washermanpet Junction", "location": [13.1098, 80.2831], "zone": "North", "capacity_vehicles_per_hour": 2400 },
+  { "signal_id": "SIG-052", "name": "Royapuram Signal", "location": [13.1149, 80.2946], "zone": "North", "capacity_vehicles_per_hour": 2000 },
+  { "signal_id": "SIG-053", "name": "Mylapore Luz Corner", "location": [13.0331, 80.2696], "zone": "South", "capacity_vehicles_per_hour": 2200 },
+  { "signal_id": "SIG-054", "name": "Triplicane Junction", "location": [13.0588, 80.2753], "zone": "Central", "capacity_vehicles_per_hour": 2100 },
+  { "signal_id": "SIG-055", "name": "Purasaiwalkam Signal", "location": [13.0927, 80.2531], "zone": "North", "capacity_vehicles_per_hour": 2300 }
+]
